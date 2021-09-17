@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388969152787",
+    "project_id": "crudapp-297a1",
+    "storage_bucket": "crudapp-297a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388969152787:android:9373f088da962b86db9ae6",
+        "android_client_info": {
+          "package_name": "com.example.myninja4ii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388969152787-7k8oh3uq54r1uqvfcsn7h8drk7c2bp6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgk_a8tr0puNgiBD8Tu5bcsm7un-Mnbhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388969152787-7k8oh3uq54r1uqvfcsn7h8drk7c2bp6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

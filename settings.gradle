@@ -1,0 +1,2 @@
+rootProject.name = "My Ninja4ii"
+include ':app'
